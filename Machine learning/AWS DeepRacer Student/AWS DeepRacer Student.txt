@@ -1,0 +1,116 @@
+AWS DeepRacer Student
+Learn
+Introduction to machine learning
+Introduction to machine learningInfo
+This introductory lesson includes three parts.
+Each part is essential to the machine learning practitioner's workflow. To find more advanced content checkout, the free AWS Machine Learning Foundations Course  on Udacity.
+This class was created in collaboration with Udacity.
+Level
+
+Beginner
+Estimated time required
+
+10 Hours
+No. of chapters
+
+12
+Prerequisites
+
+-
+1. Getting started
+1.1 Lesson outline
+This chapter is a summary of what you will learn throughout the lesson.
+
+Estimated time required
+
+~10 minutes
+In progress
+Resume learning
+1.2 What is machine learning?
+This chapter discusses what makes machine learning a unique method to solve problems in technology.
+
+Estimated time required
+
+~30 minutes
+In progress
+Resume learning
+1.3 Components of machine learning
+This chapter introduces you to the three primary components of machine learning: a machine learning model, a model training algorithm, and a model inference algorithm.
+
+Estimated time required
+
+~30 minutes
+Not started
+Start learning
+2. The five steps of machine learning
+2.1 Introduction to the five machine learning steps
+This chapter introduces you to the five steps in the machine learning process.
+
+Estimated time required
+
+~10 minutes
+Completed
+Review this chapter
+2.2 Define the problem
+This chapter demonstrates how to define a task that can be solved using machine learning.
+
+Estimated time required
+
+~60 minutes
+Completed
+Review this chapter
+2.3 Build the dataset
+This chapter introduces you to the key parts required to put together an effective dataset.
+
+Estimated time required
+
+~60 minutes
+Completed
+Review this chapter
+2.4 Model training
+This chapter introduces you to how a model's parameters are iteratively updated during model training.
+
+Estimated time required
+
+~60 minutes
+Completed
+Review this chapter
+2.5 Model evaluation
+In this chapter, you will learn about how to evaluate the performance of your model.
+
+Estimated time required
+
+~45 minutes
+Completed
+Review this chapter
+2.6 Model inference
+In this chapter, you will learn about how to use model inference to generate predictions on real-world problems using unseen data.
+
+Estimated time required
+
+~45 minutes
+Completed
+Review this chapter
+3. Examples of machine learning
+3.1 Case studies that use machine learning
+In these remaining chapters, you will go through three case studies that demonstrate how you can use machine learning to solve real-world problems.
+
+Estimated time required
+
+~60 minutes
+Completed
+Review this chapter
+3.2 Using ML to predict a book's genre
+This case study demonstrates how you can use an unsupervised learning approach, bag of words, to help identify a book’s genre.
+
+Estimated time required
+
+~60 minutes
+Completed
+Review this chapter
+3.3 Using ML to detect spills
+This case study demonstrates how you can use a neural network to detect spills from a camera feed.
+
+Estimated time required
+
+~60 minutes
