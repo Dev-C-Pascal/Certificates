@@ -1,0 +1,27 @@
+The Department of Software Engineering (SE) invites schoolchildren of 9-11 grades to attend free courses to get acquainted with the specialty "Software Engineering" of the Kharkiv National University of Radio Electronics.
+
+Every academic year, the Department of Software Engineering holds an IT club for schoolchildren. The last academic year, difficult for all Ukrainians, was no exception, the teachers of the department held classes in the following disciplines in a remote format:
+
+Fundamentals of computer architecture and networks (senior lecturer Samantsov O.O.);
+Introduction to the specialty (Assoc. Prof. Golyan V.V.);
+Introduction to IT-business (Assoc. Prof. Golyan N.V.);
+Programming in C# (senior lecturer Cherepanova Y.Y.);
+Fundamentals of programming in Python (lecturer Lyapota V.M.);
+Linux architecture (lecturer Sokorchuk I.P.).
+After the end of the main classes, everyone could join the continuation of classes on the Linux OS Architecture, which were conducted in the summer by Assoc. prof. PI Sokorchuk I.P.
+
+The circle is held not the first year and the constant partner of the Department of PI all these years is Sigma Software. We thank the representatives of the company for many years of cooperation, the result of which is the support of schoolchildren at competitions, in circles, competitions in computer science and sports programming. This year, more than 20 students received diplomas, certificates and memorable prizes from the partner. We look forward to further cooperation with Sigma Software for the development of talented youth of Ukraine!The Department of Software Engineering (SE) invites schoolchildren of 9-11 grades to attend free courses to get acquainted with the specialty "Software Engineering" of the Kharkiv National University of Radio Electronics.
+
+Every academic year, the Department of Software Engineering holds an IT club for schoolchildren. The last academic year, difficult for all Ukrainians, was no exception, the teachers of the department held classes in the following disciplines in a remote format:
+
+Fundamentals of computer architecture and networks (senior lecturer Samantsov O.O.);
+Introduction to the specialty (Assoc. Prof. Golyan V.V.);
+Introduction to IT-business (Assoc. Prof. Golyan N.V.);
+Programming in C# (senior lecturer Cherepanova Y.Y.);
+Fundamentals of programming in Python (lecturer Lyapota V.M.);
+Linux architecture (lecturer Sokorchuk I.P.).
+After the end of the main classes, everyone could join the continuation of classes on the Linux OS Architecture, which were conducted in the summer by Assoc. prof. PI Sokorchuk I.P.
+
+The circle is held not the first year and the constant partner of the Department of PI all these years is Sigma Software. We thank the representatives of the company for many years of cooperation, the result of which is the support of schoolchildren at competitions, in circles, competitions in computer science and sports programming. This year, more than 20 students received diplomas, certificates and memorable prizes from the partner. We look forward to further cooperation with Sigma Software for the development of talented youth of Ukraine!
+
+https://software.nure.ua/gurtok-yunyj-it-shnyk-ponovlyuye-navchannya/
